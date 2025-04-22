@@ -72,15 +72,15 @@
                                             <?php
 // Mảng chứa đường dẫn đến các ảnh
 $images = [
-    "assets/Users/images/collections/1.png",
-    "assets/Users/images/collections/2.png",
-    "assets/Users/images/collections/3.png",
-    "assets/Users/images/collections/4.png",
-    "assets/Users/images/collections/5.png",
-    "assets/Users/images/collections/6.png",
-    "assets/Users/images/collections/7.png",
-    "assets/Users/images/collections/8.png",
-    "assets/Users/images/collections/9.png",
+    "assets/Users/images/collections/1.jpg",
+    "assets/Users/images/collections/2.jpg",
+    "assets/Users/images/collections/3.jpg",
+    "assets/Users/images/collections/4.jpg",
+    "assets/Users/images/collections/5.jpg",
+    "assets/Users/images/collections/6.jpg",
+    "assets/Users/images/collections/7.jpg",
+    "assets/Users/images/collections/8.jpg",
+    "assets/Users/images/collections/9.jpg",
 
 ];
 

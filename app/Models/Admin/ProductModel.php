@@ -11,6 +11,7 @@ class ProductModel{
         $result = $query->fetchAll();
         return $result;
     }
+    // sua lai
     public function addProductToDB($destPath){
         $name = $_POST['name'];
         $category = $_POST['category'];

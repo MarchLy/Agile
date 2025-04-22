@@ -9,6 +9,7 @@
           $result=$query->fetchAll();
           return $result;
       }
+      // sua lai
      
       public function getCategoryById($id){
           $sql = "select *from categories where id=:id";

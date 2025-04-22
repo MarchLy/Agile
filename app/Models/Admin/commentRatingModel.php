@@ -11,7 +11,7 @@ class CommentRatingModel{
         $stmt->execute();
         return  $stmt->fetch()->avgRating;
      
-
+// upadte
     }
     public function countComment($productId){
         $sql = "SELECT COUNT(id) as countComment FROM `product_comment` WHERE product_id = :product_id and parent is null";
